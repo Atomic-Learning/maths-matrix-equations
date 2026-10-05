@@ -32,7 +32,7 @@ x_2
 =
 \begin{bmatrix}
 5 \\
-11
+15
 \end{bmatrix}
 $$
 
